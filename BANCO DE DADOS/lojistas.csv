@@ -1,0 +1,3 @@
+id,nome,   cnpj,endereco,nome_loja,email,telefone,data_criacao
+8adc6140-75bd-44d2-994e-42a4b8725dc9,Thiago Sousa Alecrim,30/01/2007,"Quadra SMPW Quadra 8 Conjunto 4, 4, casa A",Thiago Sousa Alecrim,thiagoalecrim28@gmail.com,61982506956,15/04/2026 21:35:06
+int main()
